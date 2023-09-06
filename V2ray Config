@@ -1,6 +1,6 @@
 // +build !confonly
 
-package core 222
+package core 222222
 
 import (
 	"io"
